@@ -1,0 +1,38 @@
+body {
+  background-image: url("http://cdn4.dogomedia.com/images/00396639-c9cb-4562-83cd-3fbb12ba728a/3d-printer-used-to-make-ice-cream.jpg");
+  background-size: cover;
+}
+
+h1, h4 {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+h4 {
+  padding-top: 20px;
+}
+
+.content {
+text-align: center;
+}
+
+.text {
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  width: 20%;
+  height: 100%;
+
+}
+
+.btn {
+  margin: 20px;
+}
+
+.add {
+  background-color: rgba(255, 0, 0, 0.5);
+  margin: 10px;
+  padding-bottom: 8px;
+  border-radius: 20px;
+}
